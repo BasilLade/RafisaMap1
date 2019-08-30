@@ -1,0 +1,71 @@
+.main-floor,
+                        .exit-arrow {
+                            fill: #c4c4c4;
+                        }
+                        
+                        .break-area {
+                            fill: #74bfd6;
+                        }
+                        
+                        .rooms {
+                            fill: #69abf4;
+                        }
+                        
+                        .exit-field {
+                            fill: #fff;
+                        }
+                        
+                        .exit-arrow {
+                            stroke: #757575;
+                            stroke-width: 2px;
+                        }
+                        
+                        .outer-wall,
+                        .static-wall,
+                        .exit-arrow,
+                        .polygon-circle,
+                        .stairs-renctangle {
+                            stroke-miterlimit: 10;
+                        }
+                        
+                        .exit-text {
+                            font-size: 12px;
+                        }
+                        
+                        .exit-text,
+                        .exit-undertext {
+                            font-family: ArialMT, Arial;
+                        }
+                        
+                        .outer-wall,
+                        .static-wall,
+                        .polygon-circle {
+                            fill: none;
+                        }
+                        
+                        .polygon-circle {
+                            stroke: #050505;
+                        }
+                        
+                        .stairs-renctangle {
+                            fill: #e2e2e2;
+                        }
+                        
+                        .outer-wall,
+                        .static-wall,
+                        .stairs-renctangle {
+                            stroke: #000;
+                        }
+                        
+                        .exit-undertext {
+                            font-size: 10.34px;
+                            letter-spacing: -0.04em;
+                        }
+                        
+                        .outer-wall {
+                            stroke-width: 5px;
+                        }
+                        
+                        .static-wall {
+                            stroke-width: 4px;
+                        }

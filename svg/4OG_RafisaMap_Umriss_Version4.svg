@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1155.7 484.72">
+    <title>4OG_RafisaMap_Umriss_Version4</title>
+    <g id="Standard-Boden">
+        <polygon id="Hintergrund" class="main-floor" points="1155.7 0 1.53 0 1.53 449.73 0 451.16 33.05 482.12 99.16 482.12 131.91 451.45 646 451.45 676.98 480.46 743.09 480.46 774.07 451.45 1155.7 451.45 1155.7 0" />
+    </g>
+    <g id="Bereiche">
+        <rect id="Ruhebereich" class="break-area" x="492.93" y="158.21" width="57.26" height="46.15" />
+    </g>
+    <g id="Raeume">
+        <rect id="_402_LeiterAusbildung" data-name="402_LeiterAusbildung" class="rooms" x="582.39" y="353.15" width="62.5" height="98.29" />
+        <polygon id="_401_Padagogik" data-name="401_Padagogik" class="rooms" points="772.76 448.69 772.76 353.82 646.89 353.82 646.89 450.78 647.51 450.78 646.89 451.45 672.61 479.02 691.5 479.02 692.08 479.63 747.2 479.63 774.76 450.78 772.76 448.69" />
+        <rect id="_405_Pluto" data-name="405_Pluto" class="rooms" x="389.83" y="320.87" width="62.14" height="129.58" />
+        <rect id="_404_Administration" data-name="404_Administration" class="rooms" x="453.5" y="321.76" width="62.14" height="129.58" />
+        <rect id="_403_Geschaeftsleitung" data-name="403_Geschaeftsleitung" class="rooms" x="517.37" y="321.33" width="62.14" height="129.58" />
+        <rect id="_400_Uranus" data-name="400_Uranus" class="rooms" x="776.99" y="320.86" width="191.45" height="129.25" />
+    </g>
+    <g id="Aussenbereiche">
+        <g id="Eingang_Ausgang" data-name="Eingang/Ausgang">
+            <polygon id="Ausgangfeld" class="exit-field" points="555.31 153.48 555.31 244.95 639.06 244.95 639.06 317.49 968.44 317.49 968.44 244.95 968.44 244.56 968.44 153.48 555.31 153.48" />
+            <polygon id="Ausgang" class="exit-arrow" points="760.45 303.77 764.46 303.77 756.45 273.25 748.44 303.77 752.44 303.77 752.49 320.86 756.45 320.86 760.4 320.86 760.45 303.77" />
+            <text id="TextEIN_AUS" class="exit-text" transform="translate(688.26 302.99) rotate(-45)">Eingang/Ausgang</text>
+            <polygon id="Ausgang-2" data-name="Ausgang" class="exit-arrow" points="726.84 290.35 722.84 290.35 730.85 320.86 738.86 290.35 734.85 290.35 734.81 273.25 730.85 273.25 726.89 273.25 726.84 290.35" />
+        </g>
+        <g id="Treppe">
+            <g id="Kreisel">
+                <polygon class="polygon-circle" points="856.83 253.09 828.29 253.09 808.11 265.71 808.11 283.56 828.29 296.18 856.83 296.18 877 283.56 877 265.71 856.83 253.09" />
+            </g>
+            <g id="Stufen">
+                <rect class="stairs-renctangle" x="777.07" y="261.92" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="777.07" y="270.54" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="777.07" y="279.16" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="777.07" y="287.78" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="858.41" y="419.84" width="17.24" height="5.79" transform="translate(386.03 1174.71) rotate(-90)" />
+                <rect class="stairs-renctangle" x="863.92" y="419.84" width="17.24" height="5.79" transform="translate(391.54 1180.22) rotate(-90)" />
+                <rect class="stairs-renctangle" x="869.44" y="419.84" width="17.24" height="5.79" transform="translate(397.06 1185.73) rotate(-90)" />
+                <rect class="stairs-renctangle" x="874.95" y="419.84" width="17.24" height="5.79" transform="translate(402.57 1191.25) rotate(-90)" />
+                <rect class="stairs-renctangle" x="880.36" y="419.81" width="17.24" height="5.79" transform="translate(408.01 1196.63) rotate(-90)" />
+                <rect class="stairs-renctangle" x="885.87" y="419.81" width="17.24" height="5.79" transform="translate(413.52 1202.14) rotate(-90)" />
+                <rect class="stairs-renctangle" x="891.38" y="419.81" width="17.24" height="5.79" transform="translate(419.03 1207.66) rotate(-90)" />
+                <rect class="stairs-renctangle" x="896.9" y="419.81" width="17.24" height="5.79" transform="translate(424.55 1213.17) rotate(-90)" />
+                <rect class="stairs-renctangle" x="902.41" y="419.81" width="17.24" height="5.79" transform="translate(430.06 1218.68) rotate(-90)" />
+                <rect class="stairs-renctangle" x="907.92" y="419.81" width="17.24" height="5.79" transform="translate(435.57 1224.19) rotate(-90)" />
+                <rect class="stairs-renctangle" x="913.43" y="419.81" width="17.24" height="5.79" transform="translate(441.08 1229.7) rotate(-90)" />
+                <rect class="stairs-renctangle" x="918.94" y="419.81" width="17.24" height="5.79" transform="translate(446.59 1235.21) rotate(-90)" />
+                <rect class="stairs-renctangle" x="924.46" y="419.81" width="17.24" height="5.79" transform="translate(452.1 1240.73) rotate(-90)" />
+                <rect class="stairs-renctangle" x="879.04" y="262.78" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="879.04" y="271.4" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="879.04" y="280.02" width="27.56" height="8.62" />
+                <rect class="stairs-renctangle" x="879.04" y="288.64" width="27.56" height="8.62" />
+                <line class="polygon-circle" x1="880.89" y1="307.77" x2="800.17" y2="307.77" />
+                <line class="polygon-circle" x1="803.31" y1="311.82" x2="799.88" y2="307.52" />
+                <line class="polygon-circle" x1="799.87" y1="308" x2="803.42" y2="303.56" />
+                <line class="polygon-circle" x1="803.19" y1="303.68" x2="803.08" y2="311.91" />
+                <line class="polygon-circle" x1="791.25" y1="301.98" x2="791.25" y2="263.89" />
+                <line class="polygon-circle" x1="788" y1="267.31" x2="791.44" y2="263.57" />
+                <line class="polygon-circle" x1="791.06" y1="263.56" x2="794.61" y2="267.43" />
+                <line class="polygon-circle" x1="794.52" y1="267.17" x2="787.93" y2="267.06" />
+                <line class="polygon-circle" x1="893.31" y1="259.83" x2="893.31" y2="303.56" />
+                <line class="polygon-circle" x1="896.55" y1="299.63" x2="893.12" y2="303.93" />
+                <line class="polygon-circle" x1="893.5" y1="303.94" x2="889.95" y2="299.5" />
+                <line class="polygon-circle" x1="890.04" y1="299.79" x2="896.63" y2="299.92" />
+            </g>
+            <text id="Treppenhaus_Text" class="exit-undertext" transform="translate(820.71 278.83) scale(0.8 1)">
+                <tspan class="exit-undertext">Treppenhaus</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="Linien">
+        <g id="Aussenrand">
+            <line class="outer-wall" x1="387.48" y1="283.72" x2="387.48" y2="452.25" />
+            <line class="outer-wall" x1="646.2" y1="450.48" x2="387.48" y2="450.48" />
+            <line class="outer-wall" x1="972.48" y1="451.48" x2="775.52" y2="451.48" />
+            <line class="outer-wall" x1="676.11" y1="482.96" x2="643.63" y2="450.48" />
+            <line class="outer-wall" x1="745.44" y1="482.9" x2="777.92" y2="450.42" />
+            <line class="outer-wall" x1="674.14" y1="482.18" x2="747.7" y2="482.18" />
+            <line class="outer-wall" x1="970.18" y1="319.18" x2="970.18" y2="453.48" />
+            <line class="outer-wall" x1="972.1" y1="319.84" x2="769.76" y2="319.85" />
+            <line class="outer-wall" x1="491.52" y1="283.72" x2="385.14" y2="283.72" />
+            <line class="outer-wall" x1="490.52" y1="155.73" x2="490.52" y2="285.72" />
+            <line class="outer-wall" x1="488.71" y1="155.73" x2="555.31" y2="155.73" />
+            <line class="outer-wall" x1="553.75" y1="153.72" x2="553.75" y2="249.6" />
+            <line class="outer-wall" x1="551.75" y1="247.72" x2="638.06" y2="247.72" />
+            <line class="outer-wall" x1="639.06" y1="244.95" x2="639.06" y2="319.85" />
+            <line class="outer-wall" x1="637.06" y1="319.85" x2="719.99" y2="319.85" />
+            <line class="outer-wall" x1="770.91" y1="255.36" x2="770.91" y2="318.84" />
+            <line class="outer-wall" x1="911.22" y1="259.06" x2="911.06" y2="319.85" />
+        </g>
+        <g id="StatischeWaende">
+            <line class="static-wall" x1="387.48" y1="320.85" x2="419.07" y2="320.85" />
+            <line class="static-wall" x1="439.63" y1="320.85" x2="480.56" y2="320.85" />
+            <line class="static-wall" x1="500.27" y1="320.85" x2="547.43" y2="320.85" />
+            <line class="static-wall" x1="567.72" y1="320.85" x2="581.74" y2="320.85" />
+            <line class="static-wall" x1="581.74" y1="352.95" x2="613.33" y2="352.95" />
+            <line class="static-wall" x1="738.53" y1="352.95" x2="774.37" y2="352.95" />
+            <line class="static-wall" x1="631.36" y1="352.95" x2="717.49" y2="352.95" />
+            <line class="static-wall" x1="451.92" y1="319.37" x2="451.92" y2="451.48" />
+            <line class="static-wall" x1="516.84" y1="318.37" x2="516.84" y2="450.48" />
+            <line class="static-wall" x1="581.74" y1="318.37" x2="581.74" y2="450.48" />
+            <line class="static-wall" x1="775.52" y1="350.95" x2="775.52" y2="451.48" />
+            <line class="static-wall" x1="646.2" y1="352.95" x2="646.2" y2="453.48" />
+        </g>
+    </g>
+</svg>

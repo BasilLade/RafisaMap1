@@ -1,0 +1,134 @@
+/* SVG File */
+
+.threefloor {
+    width: 100%;
+}
+
+.main-floor,
+.exit-arrow {
+    fill: #c4c4c4;
+}
+
+.exit-field {
+    fill: #fff;
+}
+
+.exit-arrow {
+    stroke: #757575;
+}
+
+.outer-wall,
+.static-wall,
+.exit-arrow,
+.emergency-arrow,
+.polygon-circle,
+.stairs-renctangle {
+    stroke-miterlimit: 10;
+}
+
+.exit-arrow,
+.emergency-arrow {
+    stroke-width: 2px;
+}
+
+.exit-text {
+    font-size: 12px;
+}
+
+.exit-text,
+.exit-undertext {
+    font-family: ArialMT, Arial;
+}
+
+.emergency-arrow {
+    fill: #b5eabe;
+}
+
+.outer-wall,
+.static-wall,
+.emergency-arrow,
+.stairs-renctangle {
+    stroke: #000;
+}
+
+.outer-wall,
+.static-wall,
+.polygon-circle {
+    fill: none;
+}
+
+.polygon-circle {
+    stroke: #050505;
+}
+
+.stairs-renctangle {
+    fill: #e2e2e2;
+}
+
+.exit-undertext {
+    font-size: 9.18px;
+    letter-spacing: -0.04em;
+}
+
+
+.toilet-room {
+    fill: #73d88d;
+}
+
+.kitchen-area {
+    fill: #db5442;
+}
+
+.mensa-area {
+    fill: #eaa04e;
+}
+
+.break-area {
+    fill: #74bfd6;
+}
+
+/*.rooms {
+    fill: #69abf4;
+}*/
+
+.outer-wall {
+    stroke-width: 3px;
+}
+
+.static-wall {
+    stroke-width: 4px;
+}
+
+/* Legendefarben Fachrichtung Räume */
+
+.appli:hover {
+    fill: #7ce060;
+}
+
+.system:hover {
+    fill: #7ce060;
+}
+
+.ict:hover {
+    fill: #ff513a;
+}
+
+.grafic:hover {
+    fill: #afafaf;
+}
+
+.labor:hover {
+    fill: #661bad;
+}
+
+.sitzung:hover {
+    fill: #73c2ff;
+}
+
+.lehrkraefte:hover {
+    fill: #ffbc5c;
+}
+
+.abklaerung:hover {
+    fill: #fff145;
+}

@@ -1,0 +1,54 @@
+{
+    "323": { 
+        "coordX": 1,
+        "coordY": 2,
+        "persons": {
+            "1": {
+                "roomNr": 323,
+                "familyName": "Erdembileg",
+                "name": "Erdem"
+            },
+            "2": {                
+                "roomNr": 323,
+                "familyName": "Birchler",
+                "name": "Laurin"
+            },
+            "3": {
+                "roomNr": 323,
+                "familyName": "Plattner",
+                "name": "Florian"
+            },
+            "4": {
+                "roomNr": 323,
+                "familyName": "Ragutt",
+                "name": "Lars"
+            }
+        }
+    },
+    "321": {
+        "coordX": 3,
+        "coordY": 4,
+        "persons": {
+            "1": {
+                "roomNr": 321,
+                "familyName": "Tonn",
+                "name": "Hanna"
+            },
+            "2": {
+                "roomNr": 321,
+                "familyName": "Schleuniger",
+                "name": "Kevin"
+            },
+            "3": {
+                "roomNr": 321,
+                "familyName": "Fry",
+                "name": "Elia"
+            },
+            "4": {
+                "roomNr": 321,
+                "familyName": "Muheim",
+                "name": "Gregor"
+            }
+        }
+    }
+}
